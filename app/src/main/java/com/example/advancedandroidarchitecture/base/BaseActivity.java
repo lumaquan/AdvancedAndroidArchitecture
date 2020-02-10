@@ -30,4 +30,8 @@ public abstract class BaseActivity extends AppCompatActivity {
         outState.putString(INSTANCE_ID_KEY, instanceId);
         super.onSaveInstanceState(outState);
     }
+
+    public String getInstanceId() {
+        return instanceId;
+    }
 }

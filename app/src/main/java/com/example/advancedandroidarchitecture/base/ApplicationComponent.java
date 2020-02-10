@@ -1,8 +1,8 @@
 package com.example.advancedandroidarchitecture.base;
 
 import com.example.advancedandroidarchitecture.home.MainActivity;
-import com.example.advancedandroidarchitecture.NetworkModule;
-import com.example.advancedandroidarchitecture.TestActivity;
+import com.example.advancedandroidarchitecture.exp.NetworkModule;
+import com.example.advancedandroidarchitecture.exp.TestActivity;
 
 import javax.inject.Singleton;
 

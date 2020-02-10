@@ -1,11 +1,10 @@
-package com.example.advancedandroidarchitecture;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.example.advancedandroidarchitecture.exp;
 
 import android.content.Context;
 import android.os.Bundle;
 import android.util.Log;
 
+import com.example.advancedandroidarchitecture.R;
 import com.example.advancedandroidarchitecture.base.BaseActivity;
 import com.example.advancedandroidarchitecture.base.MyApplication;
 
